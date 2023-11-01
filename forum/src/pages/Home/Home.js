@@ -7,20 +7,14 @@ import { SectionStyle } from "./style";
 
 function Home() {
 
-
-  
-
-
     return (
         <>
             <HeaderPerfil />
 
             <SectionStyle>
-                {/* <Menu />
+                <Menu />
                 <Card />
-
-                <Historicos /> */}
-
+                <Historicos />
             </SectionStyle>
 
         </>
